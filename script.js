@@ -27,7 +27,7 @@ let entered=document.getElementById("input").value;
 if(entered===code){
 
 document.body.innerHTML=`
-<img src="result.jpg"
+<img src="h.jpg"
 style="
 width:100vw;
 height:100vh;
